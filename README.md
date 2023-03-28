@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tony, an <a href="https://www.linkedin.com/in/tc4815/">IT Professional</h1>
+<h1>Hi, I'm Tony, an <a href="https://www.linkedin.com/in/tc4815/">IT Professional.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
