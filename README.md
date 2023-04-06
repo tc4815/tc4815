@@ -8,6 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tc4815/azure-network-protocols)
   - [On-premises Active Directory Deployed utilizing Microsoft Azure](https://github.com/tc4815/configure-ad)
+  - [Resetting Passwords and Unlocking Accounts on Active Directory](https://github.com/tc4815/passwordreset)
 
 <h2> :iphone: Connect with me:</h2>
 
