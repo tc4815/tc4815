@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/tc4815/post-install-config)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tc4815/azure-network-protocols)
-  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/tc4815/configure-ad)
+  - [On-premises Active Directory Deployed utilizing Microsoft Azure](https://github.com/tc4815/configure-ad)
 
 <h2> :iphone: Connect with me:</h2>
 
